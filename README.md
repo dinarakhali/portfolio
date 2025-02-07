@@ -28,6 +28,11 @@
 1. Использование JUnit 5
 
    [ссылка](https://github.com/dinarakhali/Dinara_Khaliullina/tree/Lesson_14_junit_5/src)
-3. Работа с Selenium
+   
+3. Работа с Selenium и создание отчета в Allure
 
-   [ссылка](https://github.com/dinarakhali/Dinara_Khaliullina/blob/Lesson_15/src/test/java/ReplenishmentTest.java)
+   [ссылка](https://github.com/dinarakhali/Dinara_Khaliullina/blob/Lesson_18/src/)
+   
+4. Работа с REST Assured
+   
+   [ссылка](https://github.com/dinarakhali/Dinara_Khaliullina/blob/Lesson_17/src/)
